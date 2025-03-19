@@ -1,4 +1,4 @@
-#### [사용자 이름] | Student of AI & Architecture  
+##### [이정근] | Student of AI & Architecture  
 
 ## 🌟 About Me  
 🏫 **교육**  
